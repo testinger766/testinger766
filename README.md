@@ -1,4 +1,8 @@
-# Hi there! 👋  
+# Hi there! 👋
+
+> [!NOTE]  
+> This account is maintained by the **samirrhashimov** team    
+  
 
 I'm **Testinger766**, a **Front-End Developer**. We focus on identifying and solving front-end issues, improving security, and delivering reliable web solutions.  
 
@@ -17,7 +21,3 @@ I'm **Testinger766**, a **Front-End Developer**. We focus on identifying and sol
   
 ### 📜 Certifications:  
 - [freeCodeCamp](https://www.freecodecamp.org/) – **Responsive Web Design Certification**
-  
-
-> [!NOTE]  
-> This account is maintained by the **samirrhashimov** team    
